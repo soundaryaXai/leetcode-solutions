@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/soundaryaXai/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/soundaryaXai/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/soundaryaXai/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/soundaryaXai/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/soundaryaXai/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/soundaryaXai/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/soundaryaXai/leetcode-solutions/tree/master/0344-reverse-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/soundaryaXai/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
