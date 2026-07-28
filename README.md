@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/soundaryaXai/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/soundaryaXai/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/soundaryaXai/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Prefix Sum
 |  |
@@ -35,9 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/soundaryaXai/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/soundaryaXai/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/soundaryaXai/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/soundaryaXai/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
