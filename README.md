@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/soundaryaXai/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/soundaryaXai/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/soundaryaXai/leetcode-solutions/tree/master/0189-rotate-array) |
+| [2413-smallest-even-multiple](https://github.com/soundaryaXai/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/soundaryaXai/leetcode-solutions/tree/master/0013-roman-to-integer) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/soundaryaXai/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
